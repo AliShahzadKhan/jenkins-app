@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Jenkins for i dont know what
+          Jenkins for i dont know what exactly
         </a>
       </header>
       <p>
